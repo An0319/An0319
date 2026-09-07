@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm WANG ZIWEN | 战略推演工作室
 
-20+岁 · 韩国 · 全球技术经营学研究生  
+24岁 · 韩国 · 全球技术经营学研究生  
 Focus: Strategic Analysis, Wargaming & Prediction
 
 ---
@@ -40,12 +40,12 @@ Focus: Strategic Analysis, Wargaming & Prediction
 
 ### 📫 联系方式 (Reach Me)
 
-- 📧 Email: [gwwangziwen@163.com]  
+- 📧 Email: gwwangziwen@163.com
 - 💬 WeChat / Telegram: [--]
 
 ---
 
 ### ⚡ One Liner
 
-> 20+岁，在韩国，希望把战略从纸上搬到现实中。  
-> 20+, in Korea, pushing strategy from theory to reality.
+> 24岁，在韩国，希望把战略从纸上搬到现实中。  
+> 24, in Korea, pushing strategy from theory to reality.
