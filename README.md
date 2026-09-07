@@ -13,7 +13,7 @@ Focus: Strategic Analysis, Wargaming & Prediction
 - **AI应用** (Vibe Coding, Agent基础设计)  
 - **框架参考**：中医辨证、法律逻辑 (TCM Dialectics, Legal Logic)
 
-目前还在啃书中，深度有限，但方向一直很明确。
+目前还在加急学习中，深度有限，但方向一直很明确。
 
 ---
 
