@@ -37,7 +37,7 @@ Focus: Strategic Analysis, Wargaming & Prediction
 
 ### 📫 联系方式 (Reach Me)
 
-- 📧 Email: [--]  
+- 📧 Email: [gwwangziwen@163.com]  
 - 💬 WeChat / Telegram: [--]
 
 ---
