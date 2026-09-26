@@ -36,6 +36,17 @@ OmniNexus 即其证伪纪律的工程化落地，是首个预注册假设已被�
 
 ---
 
+### 📜 代表作 (Selected Works)
+
+> 从我的方法论出框架、推演与结论，AI 辅助收集资料与整合+执笔，人工校核。
+> 方法论仍在迭代，作品将随版本升级重制（或替换），评价时请重点看推演结构。
+
+* [SK 海力士：HBM 周期下的竞争地位与投资价值诊断](https://github.com/An0319/sk-hynix-hbm-cycle-performance-value-diagnosis-zh) - 产业格局推演 × 财务价值诊断
+* [中国 AI 大模型：竞争格局推演与终局判断](https://github.com/An0319/ai-large-model-elimination-zh) - 中国AI大模型产业 × 主体分析
+* [中国能源变革 2020–2025 与 2026–2030 前瞻](https://github.com/An0319/energy-strategy-analysis-zh) - 全球能源格局 × 中国能源变革
+
+---
+
 ### 🤝 合作邀约 (Let's Collaborate)
 
 如果你对战略推演、认知科学或AI落地感兴趣，欢迎一起探讨问题。  
