@@ -43,6 +43,7 @@ OmniNexus 即其证伪纪律的工程化落地，首个预注册假设已被证�
 * [SK 海力士：HBM 周期下的竞争地位与投资价值诊断](https://github.com/An0319/sk-hynix-hbm-cycle-performance-value-diagnosis-zh) - 产业格局推演 × 财务价值诊断
 * [中国 AI 大模型：竞争格局推演与终局判断](https://github.com/An0319/ai-large-model-elimination-zh) - 中国AI大模型产业 × 主体分析
 * [中国能源变革 2020–2025 与 2026–2030 前瞻](https://github.com/An0319/energy-strategy-analysis-zh) - 全球能源格局 × 中国能源变革
+* [2023 年以来 AI 基础设施资本开支的资金来源与循环结构](https://github.com/An0319/ai-capex-supercycle-funding-loop-solvency-breakpoint-zh) - 资金闭环&偿付断点
 
 ---
 
