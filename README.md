@@ -20,7 +20,7 @@ Focus: Strategic Analysis, Wargaming & Prediction
 
 ### 🔭 当前核心项目 (Current Core)
 
-**OmniNexus — 跨域推理系统**（早期工程验证中）
+**[OmniNexus](https://github.com/An0319/OmniNexus) — 跨域推理系统**（早期工程验证中）
 把跨领域数据接入推理流水线，采用最新可获取数据或信息计算传导强度与预期差，发现关系、发现逻辑。
 面向 AI/量化爱好者与独立量化、宏观研究者。
 
